@@ -3,9 +3,12 @@ import React from 'react';
 const Home = () => {
  
   return (
-    <div className="snippet-container">
+    <>
+    <div className="tui-bg-blue-black">
+            
      test home
     </div>
+    </>
   );
 };
 
