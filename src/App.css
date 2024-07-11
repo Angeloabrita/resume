@@ -1,0 +1,21 @@
+
+.tui-window, .tui-panel {
+  text-align: left;
+ 
+}
+
+.tui-button{
+  margin: 0.5em;
+}
+
+.info-text {
+  margin-bottom: 10px;
+  color: white;
+}
+
+.box{
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+}
