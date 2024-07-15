@@ -1,12 +1,12 @@
-import React from 'react';
-import Container from '../components/Container';
-import '../App.css';
-import BtnLinks from '../components/Links';
-const Home = () => {
- 
+import React from "react";
+import Container from "../components/Container";
+import BtnLinks from "../components/Links";
+
+const Idiomas
+ = () => {
   return (
     <>
-    <div className="box tui-bg-blue-black  ">
+    <div className="box tui-bg-blue-black ">
 
       <div className='center'>
         <Container color="orange">
@@ -37,4 +37,5 @@ Desenvolvedor full-stack com 11 anos de experiência em operações de manufatur
   );
 };
 
-export default Home;
+export default Idiomas
+;

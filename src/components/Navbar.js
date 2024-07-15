@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
     return (
@@ -7,41 +8,46 @@ const Navbar = () => {
             <li className="tui-dropdown">
                 <span className="red-168-text">F</span>ile
                 <div className="tui-dropdown-content">
+                <ul>
+                        <li><Link to="/"><span className="red-168-text">I</span>nicio</Link></li>
+                    </ul>
                     <ul>
-                        <li><a href="#!"><span className="red-168-text">R</span>esumo</a></li>
+                        <li><Link to="/curriculum"><span className="red-168-text">R</span>esumo completo</Link></li>
                     </ul>
 
                     <ul>
-                        <li><a href="#!"><span className="blue-168-text">E</span>xperiencia</a></li>
+                        <li><Link to="/experiencia"><span className="blue-168-text">E</span>xperiencia</Link></li>
                     </ul>
 
                     <ul>
-                        <li><a href="#!"><span className="green-168-text">E</span>ducação</a></li>
+                        <li><Link to="educacao"><span className="green-168-text">E</span>ducação</Link></li>
                     </ul>
 
                     <ul>
-                        <li><a href="#!"><span className="red-168-text">C</span>ertificações</a></li>
+                        <li><Link to="certificacao"><span className="red-168-text">C</span>ertificações</Link></li>
                     </ul>
 
                     <ul>
-                        <li><a href="#!"><span className="blue-168-text">P</span>remiações</a></li>
+                        <li><Link to="premiacao"><span className="blue-168-text">P</span>remiações</Link></li>
                     </ul>
 
                     <ul>
-                        <li><a href="#!"><span className="green-168-text">I</span>diomas</a></li>
+                        <li><Link to="/idiomas"><span className="green-168-text">I</span>diomas</Link></li>
                     </ul>
                 </div>
 
                 
             </li>
             <li>
-                <a href="#!"><span className="red-168-text">G</span>itHub</a>
+                <a href="https://github.com/Angeloabrita" target="_blank" rel="noreferrer"><span className="red-168-text">G</span>itHub</a>
             </li>
             <li>
-                <a href="#!"><span className="blue-168-text">L</span>inkedin</a>
+                <a href="https://www.linkedin.com/in/angelo-gabriel-tavares-abrita" target="_blank" rel="noreferrer"><span className="blue-168-text">L</span>inkedin</a>
             </li>
            
         </ul>
+        <span className="tui-datetime" data-format="h:m:s a"></span>
+
     </nav>
     )
 }

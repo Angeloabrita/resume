@@ -6,7 +6,7 @@ const Experience = () => {
  
   return (
     <>
-    <div className="box tui-bg-blue-black ">
+    <div className="box tui-bg-green-black ">
 
       <div className='center'>
         <Container color="green">
@@ -16,18 +16,18 @@ const Experience = () => {
                 <button className="tui-fieldset-button"><span className="green-255-text">■</span></button>
 
                 <h3>Experiência</h3>
-        <ul class="experience">
+        <ul className="experience">
             <li>
-                <div class="company">Agta Studios</div>
-                <div class="position">Fullstack</div>
-                <div class="date">2016 - 2019</div>
+                <div className="company">Agta Studios</div>
+                <div className="position">Fullstack</div>
+                <div className="date">2016 - 2019</div>
                 <p>Desenvolvedor Full-Stack freelancer com várias certificações completadas. Também desenvolveu inúmeros jogos e aplicativos para indústria, comércio e entretenimento. Além disso, contribuiu para o desenvolvimento de soluções de IA durante a pandemia da Covid-19.</p>
             </li>
             <li>
-                <div class="company">Bausch Lomb</div>
-                <div class="position">Operator</div>
-                <div class="date">2012 - 2024</div>
-                <p>Operações na fabricação de lentes de contato em geral, análise de controle, auditorias internas, controle de produção, manutenção preventiva e corretiva, operação de máquinas CNC e desenvolvimento de melhorias continua.</p>
+                <div className="company">Bausch Lomb</div>
+                <div className="position">Operator</div>
+                <div className="date">2012 - 2024</div>
+                <p>Operações na fabricação de lentes de contato em geral, análise de controle, auditorias internas, controle de produção, manutenção preventiva e corretiva, operação de máquinas CNC e constante desenvolvimento de melhorias continua junto com as areas de apoio(Engenharia, Qualidade, Gestão e etc..).</p>
             </li>
         </ul>
                 

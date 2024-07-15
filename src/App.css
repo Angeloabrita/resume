@@ -1,11 +1,13 @@
 
 .tui-window, .tui-panel {
   text-align: left;
+  width: 90vw;
  
 }
 
 .tui-button{
   margin: 0.5em;
+  padding: 0.5em;
 }
 
 .info-text {
@@ -18,4 +20,78 @@
   height: 100vh;
   width: 100vw;
   align-items: center;
+  justify-content: center;
+}
+
+
+.contact {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.contact i {
+  margin-right: 10px;
+}
+
+.profile-links {
+  margin-bottom: 20px;
+}
+
+.profile-links a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+.experience, .education, .certifications {
+  margin-bottom: 30px;
+}
+
+.experience ul, .education ul, .certifications ul {
+  list-style: none;
+  padding: 0;
+}
+
+.experience li, .education li, .certifications li {
+  margin-bottom: 15px;
+}
+
+.experience .company, .education .institution, .certifications .certification {
+  font-weight: bold;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.skills span {
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.awards {
+  margin-bottom: 20px;
+}
+
+.awards ul {
+  list-style: disc;
+  padding-left: 40px;
+}
+
+.languages {
+  margin-bottom: 20px;
+}
+
+.languages ul {
+  list-style: none;
+  padding: 0;
+}
+
+.languages li {
+  margin-bottom: 10px;
 }
