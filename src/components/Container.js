@@ -1,6 +1,5 @@
 import React from "react";
 
-
 const Container = ( {color, children}) => {
     return (
         <div className={`tui-window ${color}-168 black-255-text`}>

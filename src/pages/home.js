@@ -3,6 +3,8 @@ import Container from '../components/Container';
 import '../App.css';
 import BtnLinks from '../components/Links';
 const Home = () => {
+
+ 
  
   return (
     <>
@@ -16,6 +18,8 @@ const Home = () => {
                 <button className="tui-fieldset-button"><span className="green-255-text">■</span></button>
                 
 Desenvolvedor full-stack com 11 anos de experiência em operações de manufatura e 5 anos em desenvolvimento de software. Poliglota em linguagem de programação com conhecimento em C#, PHP, Java e Kotlin com foco em desenvolvimento web e mobile. Além de conhecimento de básicos em inteligência artificial e visão computacional. Desenvolvi projetos de impacto social durante a pandemia da Covid-19, incluindo um app de detecção de máscaras com machine learning e um bot de informações sobre a pandemia. Além disso, estou constantemente aprimorando minhas habilidades em boas práticas de desenvolvimento, seguindo os princípios de DDD, SOLID e TDD.<br />
+
+
                 <br />
                 <div className="tui-divider"></div>
                 <br />

@@ -5,6 +5,10 @@
  
 }
 
+.tui-table {
+  width: 80vw;
+}
+
 .tui-button{
   margin: 0.5em;
   padding: 0.5em;
