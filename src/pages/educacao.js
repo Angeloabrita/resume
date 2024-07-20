@@ -16,19 +16,19 @@ const Educacao = () => {
 
                 <ul className="education">
             <li>
-                <div className="institution">Uninter</div>
+                <div className="institution  white-255-text">Uninter</div>
                 <div className="degree">Tecnologo</div>
                 <div className="date">2013 - 2015</div>
                 <p>Gestão da produção industrial</p>
             </li>
             <li>
-                <div className="institution">CENTRO UNIVERSITÁRIO ANHANGUERA PITÁGORAS AMPLI</div>
+                <div className="institution  white-255-text">CENTRO UNIVERSITÁRIO ANHANGUERA PITÁGORAS AMPLI</div>
                 <div className="degree">Bacharel</div>
                 <div className="date">2022 - 2025</div>
                 <p>Engenharia de software</p>
             </li>
             <li>
-                <div className="institution">University of the People</div>
+                <div className="institution  white-255-text">University of the People</div>
                 <div className="degree">Associate’s Degree( Graduação)</div>
                 <div className="date">2023 - 2025</div>
                 <p>Computer Science</p>
