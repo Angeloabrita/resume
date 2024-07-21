@@ -20,15 +20,15 @@ const Navbar = () => {
                     </ul>
 
                     <ul>
-                        <li><Link to="educacao"><span className="green-168-text">E</span>ducação</Link></li>
+                        <li><Link to="/educacao"><span className="green-168-text">E</span>ducação</Link></li>
                     </ul>
 
                     <ul>
-                        <li><Link to="certificacao"><span className="red-168-text">C</span>ertificações</Link></li>
+                        <li><Link to="/certificacoes"><span className="red-168-text">C</span>ertificações</Link></li>
                     </ul>
 
                     <ul>
-                        <li><Link to="premiacao"><span className="blue-168-text">P</span>remiações</Link></li>
+                        <li><Link to="/premiacoes"><span className="blue-168-text">P</span>remiações</Link></li>
                     </ul>
 
                     <ul>

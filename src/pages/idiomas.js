@@ -11,7 +11,7 @@ const Idiomas
       <div className='center'>
         <Container color="orange">
         
-                <legend className="center white-255-text">Resumo</legend>
+                <legend className="center white-255-text">Idiomas</legend>
                 <button className="tui-fieldset-button left"><span className="green-255-text">↑</span></button>
                 <button className="tui-fieldset-button"><span className="green-255-text">■</span></button>
                 

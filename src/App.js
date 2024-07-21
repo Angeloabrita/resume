@@ -22,7 +22,7 @@ function App() {
     <Route path='/experiencia' element={<Experience />} ></Route>
     <Route path='/curriculum' element={<Curriculum />} ></Route>
     <Route path='/educacao' element={<Educacao  />}></Route> 
-    <Route path='/premiacao' element={<Premiacao  />}></Route>
+    <Route path='/premiacoes' element={<Premiacao  />}></Route>
     <Route path='/idiomas' element={<Idiomas  />}></Route> 
     <Route path='/certificacoes' element={<Certificacao  />}></Route> 
 

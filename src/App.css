@@ -5,6 +5,11 @@
  
 }
 
+.container{
+  padding: 1em;
+  width: 100%;
+}
+
 .tui-table {
   width: 80vw;
 }

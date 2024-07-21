@@ -10,7 +10,7 @@ const Premiacao = () => {
 <div className='center'>
   <Container color="green">
   
-          <legend className="center white-255-text">Resumo</legend>
+          <legend className="center white-255-text">Premiações</legend>
           <button className="tui-fieldset-button left"><span className="green-255-text">↑</span></button>
           <button className="tui-fieldset-button"><span className="green-255-text">■</span></button>
           
