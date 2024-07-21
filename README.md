@@ -1,5 +1,3 @@
-Aqui está o README corrigido e melhorado:
-
 # Currículo Vintage
 
 Meu currículo pessoal no estilo vintage traz a nostalgia do antigo DOS usando as mais modernas tecnologias como React.
