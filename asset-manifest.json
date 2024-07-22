@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.24151903.css",
-    "main.js": "/resume/static/js/main.72a28fa1.js",
+    "main.js": "/resume/static/js/main.dc2fdfc2.js",
     "static/js/453.f19e9853.chunk.js": "/resume/static/js/453.f19e9853.chunk.js",
     "static/media/Perfect DOS VGA 437 Win.ttf": "/resume/static/media/Perfect DOS VGA 437 Win.29ef71f99589099ff342.ttf",
     "index.html": "/resume/index.html",
     "main.24151903.css.map": "/resume/static/css/main.24151903.css.map",
-    "main.72a28fa1.js.map": "/resume/static/js/main.72a28fa1.js.map",
+    "main.dc2fdfc2.js.map": "/resume/static/js/main.dc2fdfc2.js.map",
     "453.f19e9853.chunk.js.map": "/resume/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24151903.css",
-    "static/js/main.72a28fa1.js"
+    "static/js/main.dc2fdfc2.js"
   ]
 }
