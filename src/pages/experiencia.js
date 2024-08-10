@@ -21,13 +21,15 @@ const Experience = () => {
                 <div className="company  white-255-text">Agta Studios</div>
                 <div className="position">Fullstack</div>
                 <div className="date">2016 - 2019</div>
-                <p>Desenvolvedor Full-Stack freelancer com várias certificações completadas. Também desenvolveu inúmeros jogos e aplicativos para indústria, comércio e entretenimento. Além disso, contribuiu para o desenvolvimento de soluções de IA durante a pandemia da Covid-19.</p>
+                <p>Atuando como Desenvolvedor Full-Stack freelancer na AGTA Studios (2016 - 2019), aprimorei minhas habilidades em desenvolvimento web e mobile, utilizando linguagens como C#, PHP, Java e Kotlin. Desenvolvi projetos desafiadores para clientes em diversos setores, incluindo jogos, aplicativos para indústria e comércio, e soluções inovadoras com inteligência artificial. Durante a pandemia, contribuí com projetos de impacto social, como um aplicativo de detecção de máscaras com machine learning e um bot de informações sobre a Covid-19.</p>
             </li>
             <li>
                 <div className="company  white-255-text">Bausch Lomb</div>
                 <div className="position">Operator</div>
                 <div className="date">2012 - 2024</div>
-                <p>Operações na fabricação de lentes de contato em geral, análise de controle, auditorias internas, controle de produção, manutenção preventiva e corretiva, operação de máquinas CNC e constante desenvolvimento de melhorias continua junto com as areas de apoio(Engenharia, Qualidade, Gestão e etc..).</p>
+                <p>
+                Durante minha trajetória como Operador de Produção na Bausch Lomb (2012 - 2024), contribuí para a produção eficiente de lentes de contato, garantindo a qualidade e o cumprimento dos prazos. Atuando em diversas áreas, como controle de produção, manutenção preventiva e corretiva, e operação de máquinas CNC, desenvolvi um profundo conhecimento dos processos produtivos. Essa experiência me proporcionou uma base sólida para a minha transição para o desenvolvimento de software, pois me ensinou a pensar de forma analítica, a resolver problemas complexos e a trabalhar em equipe para alcançar objetivos comuns.
+                </p>
             </li>
         </ul>
                 
